@@ -1,0 +1,22 @@
+# Node / npm
+node_modules/
+
+# Frontend build artifacts
+frontend/dist/
+
+# Backend build artifacts
+backend/dist/
+
+# Env files
+.env
+backend/.env
+frontend/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
